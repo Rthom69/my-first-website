@@ -32,7 +32,7 @@ nav a:hover{
 }
 
 .card{
-    float: left;
+    display:inline-block;
     width: 20%;
     margin-left: 10%;
 }
